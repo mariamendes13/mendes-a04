@@ -1,19 +1,37 @@
-## Passo a passo de como criar um repositório no GitHub
+# Passo a passo de como criar um repositório no GitHub
 
-P1 - Abrir/crie sua conta no Github web e baixe o Github desktop e faça o login com a sua conta
+## 1° Passo 
+    Abrir/crie sua conta no Github web e baixe o Github Desktop e faça o login com a sua conta
 
-P2 - No github web clique no botão new na aba de repositorios que fica a esquerda na tela inicial
+## 2° Passo 
+    No github web clique no botão new na aba de repositorios que fica a esquerda na tela inicial
 
-P3 - Dê o nome ao seu repositório e deixe ele publico ou privado
+## 3° Passo 
+    Dê o nome ao seu repositório e deixe ele publico ou privado
 
-P4 - Copia a URL do seu repositóro (caso você queira que outra pessoa acesse diretamente o seu projeto), crie o clone e abra no github desktop
+## 4° Passo 
+    Copia a URL do seu repositóro (caso você queira que outra pessoa acesse diretamente o seu projeto), crie o clone e abra no Github Desktop
 
-P5 - Abra o visual studio ir na aba file e e dopis aperte em open folder e selecione a pasta do seu projeto, ela foi criada quando você fez o clone.
+## 5° Passo 
+    Abra o visual studio ir na aba file e e dopis aperte em open folder e selecione a pasta do seu projeto, ela foi criada quando você fez o clone.
 
-P6 - Depois disso passe o mouse em cima do nome do seu projeto vai ter 4 icones clique no primeiro e crie um arquivo README.md. Nesse arquivo você poderar esccrever e fazer alteração depois.
+## 6° Passo 
+    Depois disso passe o mouse em cima do nome do seu projeto vai ter 4 icones clique no primeiro e crie um arquivo README.md. Nesse arquivo você poderar esccrever e fazer alteração depois.
 
-P7 - No Github desktop você pode fazer commit no lado esquerdo da tela na parte de baixo. Commit são atualizaçôes que você fez no seu projeto, descritas de formar susinta.
+## 7° Passo 
+    No Github Desktop você pode fazer commit no lado esquerdo da tela na parte de baixo. Commit são atualizaçôes que você fez no seu projeto, descritas de formar susinta.
 
-P8 - Torne esse commit publico com o comando push. Na parte de cima na tela clique em repository e em push.
+## 8° Passo 
+    Torne esse commit publico com o comando push. Na parte de cima na tela clique em repository e em push.
 
-P9 - Salve a ultima alteração do seu arquivo com o comando pull. Na mesma parte de repository que você clicou para executar o comando push e aperte no pull.
+## 9° Passo 
+    Salve a ultima alteração do seu arquivo com o comando pull. Na mesma parte de repository que você clicou para executar o comando push e aperte no pull.
+
+## 10° Passo
+    No GitHub Desktop clique em Branch e crie um novo Branch e escolha um nome para ele.
+
+## 11° Passo
+    Depois clique em "Current Branch" e em seguida selecione um Branch e clique em "Chose a branch to merge into nome_da_sua_nova_branch" e depois clique em "Create a merge commit".
+
+## 12° Passo
+    E por fim clique em Branch novamente e delete.
